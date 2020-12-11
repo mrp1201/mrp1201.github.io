@@ -1,7 +1,4 @@
 <HTML>
-<HEAD>
-	<TITLE>Гостьова книга сайту</TITLE>
-</HEAD>
 <BODY bgcolor="eff859">
 <!-- Table objects -->
 <form method="post" action="http://localhost/scripts/response.exe" >
